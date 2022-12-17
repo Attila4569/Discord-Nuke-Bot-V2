@@ -1,7 +1,7 @@
 {
 "bot_token": "Bot Token",
-"prefix": "$",
-"channelnames": "Axe Runs Cord",
-"rolenames": "AXES RUNS CORD",
-"spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Axes Are Cool", "@everyone Beamed"]
+"prefix": "!?",
+"channelnames": "segal and attila Runs Cord",
+"rolenames": "segal and attila RUNS CORD",
+"spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Segal and attila Are Cool", "@everyone Beamed"]
 }
